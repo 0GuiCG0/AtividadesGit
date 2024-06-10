@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TCView
+comment0.text=\n\ Interface\ Gr\u00E1fica\ (GUI)\ da\ Calculadora\ de\ IMC\n\ \n\ @author\ 0GuiCG0\n\ @version\ 09/05\n
+comment1.params=
+comment1.target=TCView()
+comment2.params=controller
+comment2.target=void\ setController(TCController)
+comment3.params=primaryStage
+comment3.target=void\ start(javafx.stage.Stage)
+numComments=4

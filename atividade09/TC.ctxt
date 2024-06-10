@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TC
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ TCC\ aqui.\n\ \n\ @author\ \ Guilherme\ Caetano\ Gea\ Martins\ \n\ @version\ 09/05\n
+comment1.params=
+comment1.target=TC()
+comment2.params=temp\ is_Fahr
+comment2.target=TC(double,\ boolean)
+comment3.params=
+comment3.target=double\ cvrt()
+comment3.text=\n\ Converte\ a\ Temperatura\ p/\ Outra\n\ \ \ \ \ \ C\u00B0\ ->\ F\u00B0\n\ \ \ \ \ \ F\u00B0\ ->\ C\u00B0\n\ \n\ @return\ temperatura\ convertida,\ dada\ por\:\ \n\ \ ou\ (celsius\ *\ 9\ /\ 5)\ +\ 32\ \ \ \ p/\ Fahrenheit\n\ \ ou\ (fahrenheit\ -\ 32)\ *\ 5\ /\ 9\ p/\ Celsius\n
+comment4.params=
+comment4.target=java.lang.String\ alternar()
+numComments=5
