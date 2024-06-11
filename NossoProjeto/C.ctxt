@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=C
+comment1.params=
+comment1.target=C()
+comment2.params=
+comment2.target=void\ iniciar()
+comment2.text=\n\ Cata\ Erros\n
+comment3.params=e
+comment3.target=void\ buttonCalcularClicado(javafx.event.Event)
+numComments=4
